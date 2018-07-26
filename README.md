@@ -1,3 +1,3 @@
-# WIREFRAME
+# WireFrame
 
 edits.
