@@ -1,3 +1,3 @@
-# HWWIREFRAME
+# WIREFRAME
 
 edits.
